@@ -8,4 +8,4 @@ no-tame-worlds:
   - world_nether
 
 tamed-behavior:
-  attack-wild-animals: true
+  attack-wild-animals: false
